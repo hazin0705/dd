@@ -1,3 +1,3 @@
-Kg = int(input("몇 키로"))
+Kg = int(input())
 Pounds = Kg*2.20462
 print(Pounds)
