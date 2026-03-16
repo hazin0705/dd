@@ -1,4 +1,4 @@
-Radius = int(input())
+Radius = float(input())
 Pi = 3.14
 Round = Radius*2*Pi
 Size = Radius**2*Pi
