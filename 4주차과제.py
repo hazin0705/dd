@@ -19,5 +19,5 @@ if question == 2:
             result += i
         print("%d+.....+%d는 %d입니다"%(n2,n1,result))
 
-else:
+if question!=1 and question!=2:
     print("1 또는 2만 입력해주세요")
